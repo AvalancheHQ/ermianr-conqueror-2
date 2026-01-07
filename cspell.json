@@ -11,7 +11,7 @@
 		"softwareTerms",
 		"companies"
 	],
-	"words": ["tanstack", "biomejs", "uuidv", "radash", "genai"],
+	"words": ["tanstack", "biomejs", "uuidv", "radash", "genai", "codspeed"],
 	"ignorePaths": [
 		"node_modules/**",
 		"dist/**",
